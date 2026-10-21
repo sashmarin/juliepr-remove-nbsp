@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Juliepr Remove NBSP
+ * Plugin URI: https://github.com/sashmarin/juliepr-remove-nbsp
  * Description: Replaces non-breaking spaces with regular spaces in post and page titles, content, and excerpts when saving.
  * Version: 1.0.0
  * Requires at least: 6.5
